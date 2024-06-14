@@ -10,7 +10,7 @@ Responsive Design
 Installation
 Clone the repository:
 bash
-Copy code
+
 git clone https://github.com/yourusername/MyStore.git
 Navigate to the project directory:
 bash
